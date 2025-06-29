@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #0F172A;
+  color: #E2E8F0;
+}
+
+/* Animated Stars Background */
+.stars-bg {
+  background-image: 
+    radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 2px),
+    radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 1px),
+    radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 2px);
+  background-size: 550px 550px, 350px 350px, 250px 250px;
+  background-position: 0 0, 40px 60px, 130px 270px;
+  animation: starsAnimation 15s ease-in-out infinite alternate;
+}
+
+@keyframes starsAnimation {
+  0%, 100% {
+    opacity: 0.5;
+  }
+  25% {
+    background-position: 50px 50px, 90px 110px, 160px 200px;
+  }
+  50% {
+    opacity: 0.7;
+    background-position: 100px 30px, 140px 90px, 200px 150px;
+  }
+  75% {
+    background-position: 30px 80px, 60px 30px, 100px 200px;
+  }
+}
+
+body {
+  @apply stars-bg;
+}
