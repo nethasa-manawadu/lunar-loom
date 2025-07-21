@@ -1,12 +1,17 @@
-# React + Vite
+# 🚀 Lunar Loom: Study Like You're in Space 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Your brain + space tomatoes = unstoppable genius** 🌱👨‍🚀  
 
-Currently, two official plugins are available:
+## 🪐 What's in This Cosmic Crib?  
+- **Pomodoro Timer** - Work now, procrastinate later (maybe)  
+- **Space Farm** - Grow funky alien plants by studying  
+- **To-Do List** - For when your brain is more scrambled than astronaut food  
+- **Formula Logbook** - Nerdy equations go *brrrr*  
+- **Scheduler** - Alarms for your dumpster-fire schedule  
+- **Motivation Hub** - Weird space wisdom to fake it till you make it  
+- **Punching Chamber** - Stress relief (100% legal, 0% jail time)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ☄️ Why Bother?  
+- Normal apps = 😴  
+- Space apps = 🤯  
+- Also you get to punch holograms (therapeutic AF)
